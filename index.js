@@ -22,6 +22,5 @@ class Calculator {
 var calculator = new Calculator;
 console.log(calculator.addValues(0, 0));
 console.log(calculator.multiplyValues(5, 5, 4, 5));
-console.log('test');
 
 module.exports = calculator;
